@@ -22,7 +22,7 @@ const Header = () => {
   
     <Link to='..\'> 
     <div className=' text-lg font-bold font-serif'>
-    CANDY CLOTHING
+    STYLE SPHERE
     </div>
     </Link>
     
