@@ -6,7 +6,7 @@ const Footer = () => {
     <div className=' container mx-auto'>
       <p className='text-white text-center'>
         Copyright &copy; Candy Clothing 2023.All rights
-        reserved.<br />Made by Md Mohsin Uddin💗
+        reserved.<br />Made by Mohammad Danish💗
       </p>
     </div>
     </footer>
